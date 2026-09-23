@@ -17,3 +17,4 @@ while True:
     ]
     )
     print (response["message"]["content"])
+    #our simple bot does not have any memory, so it will not remember the previous questions and answers.
