@@ -1,0 +1,84 @@
+AI is a technology to perform task.
+AI has many subsets LLM,Generative AI ,Machine learning, 
+Cloud AI: AI is present in the server or provider 
+python -m venv .venv
+.venv\Scripts\activate
+ollama --version 
+ollama pull llama3.2:3b
+connection:
+$ git config --global user.name "yourname"
+pip install ollama
+Machine learning is a subset of AI it will be trained by us .
+Generative AI is a type of AI that can create new content such as images,text ,etc.
+Large Language Models is an AI Model training to create a large amount of text.
+Ollama is a tool that allows us to download ,run and manage AL models locally on our computer.
+Local AI model : Model is within our computer. No network. Device Hardware.
+Cloud AI model : Model is at another place. Through internet connection. Provider hardware.
+Git is a tool that tracks changes in your project files.
+GitHub is an online platform that stores and shares your git repositories.
+git init --> creates a new repository 
+git remote add origin<URL> --> connects your local repository to a GitHub repository
+git status --> shows the current status of our files
+git add . --> Stages all changes to be commited
+git commit -m "message" --> Saves our changes with a message
+git push --> uploads your commits to git hub
+git pull --> downloads
+mkdir --> to create a folder(make directory)
+cd --> change directory
+commands
+mkdir Day
+cd Day
+cd ..
+cd Day-1
+cd .. --> goes to the previous location
+code filename.py --> to create a python file
+ollama pull llama3.2:3b
+ollama run llama3.2:3b
+TO work with Git 
+create a file name python hello.py
+code hello.py
+Git process
+What is mean by Prompt?
+Prompt is nothing but an input given to the AI Assisstant it should be clear, specific
+pip install streamlit
+3b --> # billion parameters 
+Stream lit is a pyhton framework to the web page work to the backend
+Git command to push them 
+git init --> To track the folder only day1 for the conection
+git remote add origin " link"
+git remote -v --> to fetch , push
+git branch -M main--> to make a Main other than master
+$ git config --global user.name "yourname"
+$ git config --global user.email "email"
+git Proceesssss..............!!!!
+git remote -v
+git status
+git add .
+git commit - m "message"
+git push -u origin main
+System role which tells its behaviour
+Assistant role Which continues the Conversation 
+st.title() --> Displays the main of the Chatbot
+st.header() --> Displays a major section heading
+st.subheader() --> Displays a smaller section header
+st.write() --> Displays 
+streamlit run filename.py --> to run streamlit application
+st.write -->prints into the chatbot
+python -m streamlit run filename.py
+st.spinner
+TYpes of AI by capability:
+1.Narrow AI (ANI) --> Built for specific tasks, common today 
+2.General AI (AGI) --> Would handle many diff tasks like a human, theoretical
+3.Super AI (ASI) --> Hypothetical intelligence beyond humans
+Types of AI by functionality:
+1. Reactive Machines --> responds to the current input
+2. Limited Memory --> Performs only limited tasks cannot be updated
+3. Theory of Mind --> Would understand intentions , emotions
+4. Self-Aware AI --> Would have consciousness
+
+AI is the broad field, ML is a way to learn from data, Deep learning uses multi-layer neural networks
+Gen AI --> Creates new content , con generate text , img, audio, video, and code
+Neural networks: A ML model inspired by the biological neurons processs information.
+It learns by the patternsfrom the data by adjusting connections between artificial neurons.
+
+
